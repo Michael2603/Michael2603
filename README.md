@@ -12,9 +12,9 @@ I love using Github for my projects not just for control version, but also for b
 <div align="center">
 
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michael2603&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide=stars&title_color=8339b2&text_color=fafafa&bg_color=181818"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michael2603&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide=stars&title_color=AA4AE7&text_color=fafafa&bg_color=181818"/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=michael2603&theme=tokyonight&border=323232&background=181818&currStreakLabel=FAFAFA&currStreakNum=FAFAFA&stroke=FAFAFA&ring=AA4AE7&fire=AA4AE7&sideNums=AA4AE7&sideLabels=AA4AE7&dates=08CEFF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=michael2603&theme=tokyonight&border=323232&background=181818&currStreakLabel=FAFAFA&currStreakNum=FAFAFA&stroke=FAFAFA&ring=AA4AE7&fire=AA4AE7&sideNums=AA4AE7&sideLabels=AA4AE7&dates=ffb224)](https://git.io/streak-stats)
 
 </div>
 
