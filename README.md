@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm Michael 😁
 
-<!--
-**Michael2603/Michael2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love using Github for my projects not just for control version, but also for better maneging my files, organizing them acording to they current priority.
 
-Here are some ideas to get you started:
+- 🖥️ Current project: Glimpse of Horizon: The Lizon Nature
+- ⚡ Currently developing skill: Pathfind
+- ✔️ Work disponibility: Avaliable
+- 🍃 How to fly: Rigidbody.Addforce(transform.up * speed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michael2603&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide=stars&title_color=8339b2&text_color=fafafa&bg_color=181818"/>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=michael2603&theme=tokyonight&border=323232&background=181818&currStreakLabel=FAFAFA&currStreakNum=FAFAFA&stroke=FAFAFA&ring=AA4AE7&fire=AA4AE7&sideNums=AA4AE7&sideLabels=AA4AE7&dates=08CEFF)](https://git.io/streak-stats)
+
+</div>
+
+##
+
+<div align="center">
+  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
