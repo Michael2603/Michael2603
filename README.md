@@ -1,6 +1,6 @@
 ### Hi, I'm Michael 😁
 
-I love using Github for my projects not just for control version, but also for better maneging my files, organizing them acording to they current priority.
+I love using Github for my projects not only for control version but also to better manege my files, organizing them acording to their current priority.
 
 - 🖥️ Current project: Glimpse of Horizon: The Lizon Nature
 - ⚡ Currently developing skill: Pathfind
