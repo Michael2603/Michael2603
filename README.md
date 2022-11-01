@@ -1,11 +1,11 @@
-### Hi, I'm Michael 😁
+### Olá! Eu sou o Michael 😁
 
-I love using Github for my projects not only for control version but also to better manege my files, organizing them acording to their current priority.
+Eu adoro usar o Github para os meus projetos não só para controle de versão, mmas também para gerenciar melhor meus arquivos, assim eu consigo organizá-los de acordo com a prioridade que estou dando para eles no momento.
 
-- 🖥️ Current project: Glimpse of Horizon: The Lizon Nature
-- ⚡ Currently developing skill: Pathfind
-- ✔️ Work disponibility: Avaliable
-- 🍃 How to fly: Rigidbody.Addforce(transform.up * speed)
+- 🖥️ Projeto atual: Projeto pessoal
+- ⚡ Habilidade que atualmente estou aprimorando: Pathfind
+- ✔️ Disponibilidade de trabalho: Disponível
+- 🍃 Como voar: Rigidbody.Addforce(transform.up * speed)
 
 ##
 
