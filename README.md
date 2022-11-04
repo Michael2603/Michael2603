@@ -3,7 +3,7 @@
 Eu adoro usar o Github para os meus projetos não só para controle de versão, mmas também para gerenciar melhor meus arquivos, assim eu consigo organizá-los de acordo com a prioridade que estou dando para eles no momento.
 
 - 🖥️ Projeto atual: Projeto pessoal
-- ⚡ Habilidade que atualmente estou aprimorando: Pathfind
+- ⚡ Habilidade que atualmente estou aprimorando: Fragmentação de meshes
 - ✔️ Disponibilidade de trabalho: Disponível
 - 🍃 Como voar: Rigidbody.Addforce(transform.up * speed)
 
