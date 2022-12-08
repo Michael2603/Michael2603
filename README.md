@@ -14,7 +14,7 @@ Eu adoro usar o Github para os meus projetos não só para controle de versão, 
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michael2603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars&title_color=AA4AE7&text_color=fafafa&bg_color=181818"/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=michael2603&theme=tokyonight&border=323232&background=181818&currStreakLabel=FAFAFA&currStreakNum=FAFAFA&stroke=FAFAFA&ring=AA4AE7&fire=AA4AE7&sideNums=AA4AE7&sideLabels=AA4AE7&dates=ffb224)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=michael2603&theme=tokyonight&border=323232&background=181818&currStreakLabel=FAFAFA&currStreakNum=FAFAFA&stroke=FAFAFA&ring=AA4AE7&fire=AA4AE7&sideNums=AA4AE7&sideLabels=AA4AE7&dates=ffb224)
 
 </div>
 
