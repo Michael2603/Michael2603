@@ -4,7 +4,7 @@ Eu adoro usar o Github para os meus projetos não só para controle de versão, 
 
 - 🖥️ Projeto atual: Projeto pessoal
 - ⚡ Habilidade que atualmente estou aprimorando: Multiplayer
-- ✔️ Disponibilidade de trabalho: Disponível
+- ✔️ Disponibilidade de trabalho: Indisponível
 - 🍃 Como voar: Rigidbody.Addforce(transform.up * speed)
 
 ##
