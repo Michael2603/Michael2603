@@ -2,9 +2,9 @@
 
 Eu adoro usar o Github para os meus projetos não só para controle de versão, mmas também para gerenciar melhor meus arquivos, assim eu consigo organizá-los de acordo com a prioridade que estou dando para eles no momento.
 
-- 🖥️ Projeto atual: Sagas de Claire
-- ⚡ Habilidade que atualmente estou aprimorando: Multiplayer
-- ✔️ Disponibilidade de trabalho: Indisponível
+- 🖥️ Projeto atual: Pessoal
+- ⚡ Habilidade que atualmente estou aprimorando: Criação Procedural de Conteúdo
+- ✔️ Disponibilidade de trabalho: Disponível
 - 🍃 Como voar: Rigidbody.Addforce(transform.up * speed)
 
 ##
